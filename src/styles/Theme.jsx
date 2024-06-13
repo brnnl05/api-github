@@ -24,6 +24,7 @@ export const theme = {
     indigo: "#4263Eb",
     purple: "#7E5CEF",
     pink: "#FE5895",
+    champagneDark: "#bdc3c7",
     gray100: "#FAFAFA",
     gray200: "#E9ECEF",
     gray300: "#DEE2E6",
@@ -36,9 +37,11 @@ export const theme = {
     primary: "#F83600",
     secondary: "#FE8C00",
     metalDark: "7f8c8d",
+    danger: "#f37272",
     // Default Colors
     container: "#2d2d2d",
     text: "#fff",
+    light: "ecf0f1",
   },
   fontFamily: {
     heading: ["IBM Plex Sans", "sans-serif"].join(","),
